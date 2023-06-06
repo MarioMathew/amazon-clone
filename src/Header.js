@@ -30,7 +30,7 @@ function Header() {
             <span className='header__optionLineone'>Your</span>
             <span className='header__optionLineTwo'>Prime</span>
           </div>
-          
+        
         </div>
     </div>
   )
