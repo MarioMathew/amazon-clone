@@ -3,11 +3,11 @@ import React from 'react';
 import Header from './Header';
 
 function App() {
-  return (<div className = "app"> 
-        <h1> Lets build Amazon store app 🚀 </h1>
+  return (
+      <div className = "app"> 
         < Header/>
         {/* Home */}
-        </div>);
+      </div>);
   }
 
 export default App;
